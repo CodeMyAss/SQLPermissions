@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="craftbukkit-1.7.9-R0.1-20140501.232444-18">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/DevRosemberg/Jar Files/CraftBukkit/craftbukkit-1.7.9-R0.1-20140501.232444-18.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/DevRosemberg/Jar Files/Bukkit/bukkit-1.7.9-R0.1-20140424.033657-5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/DevRosemberg/Jar Files/CraftBukkit/craftbukkit-1.7.9-R0.1-20140501.232444-18.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/DevRosemberg/Jar Files/Bukkit/bukkit-1.7.9-R0.1-20140424.033657-5.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SQLPermisions">
+    <output-path>$USER_HOME$/Desktop/DevRosemberg/Test Server/plugins</output-path>
+    <root id="archive" name="SQLPermisions.jar">
+      <element id="module-output" name="SQLPermissions" />
+    </root>
+  </artifact>
+</component>
