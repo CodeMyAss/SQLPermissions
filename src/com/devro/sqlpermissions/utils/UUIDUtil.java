@@ -12,8 +12,8 @@ public class UUIDUtil {
     public static UUID getUUIDOf(String name) {
         try {
             return UUIDFetcher.getUUIDOf(name);
-        } catch (Exception e) {
-            e.printStackTrace();
+        } catch (Exception ea) {
+            ea.printStackTrace();
         }
 
         return null;
