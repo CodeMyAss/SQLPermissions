@@ -1,6 +1,0 @@
-SQL:
- Username: 'root'
- Password: 'erikcapo'
- Address: 'localhost'
- Database: 'SQLPermissions'
- Port: '3306'

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.bukkit:craftbukkit:1.7.9-R0.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bukkit/craftbukkit/1.7.9-R0.3-SNAPSHOT/craftbukkit-1.7.9-R0.3-20140705.002733-4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bukkit/craftbukkit/1.7.9-R0.3-SNAPSHOT/craftbukkit-1.7.9-R0.3-20140705.002733-4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bukkit/craftbukkit/1.7.9-R0.3-SNAPSHOT/craftbukkit-1.7.9-R0.3-20140705.002733-4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
