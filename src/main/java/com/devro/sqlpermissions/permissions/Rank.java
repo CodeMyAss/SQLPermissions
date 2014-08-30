@@ -9,7 +9,6 @@ import org.bukkit.ChatColor;
  * Programmed for the SQLPermissions project.
  */
 public enum  Rank {
-
     MEMBER("Member", ChatColor.GRAY),
     OWNER("Owner", ChatColor.DARK_RED);
 

@@ -69,8 +69,6 @@ public class JoinQuitListener implements Listener {
     public void onQuit(PlayerQuitEvent event) {
         PermissionsManager.getInstance().getPermissions().remove(event.getPlayer().getUniqueId());
 
-        PermissionsManager.getInstance().setRank(event.getPlayer().getUniqueId(), Rank.OWNER);
-
         PermissionsCore.getInstance().getScoreboard().getTeam(PermissionsManager.getInstance().getRank(event.getPlayer()).name()).removePlayer(event.getPlayer());
     }
 }
